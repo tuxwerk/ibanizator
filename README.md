@@ -81,6 +81,11 @@ bank_4 = Ibanizator.bank_db.bank_by_bic('OASPDE6AXXX')
 bank_4 == bank_2  # => false
 ```
 
+## Update blz.txt
+
+Download new list from:
+https://www.bundesbank.de/de/aufgaben/unbarer-zahlungsverkehr/serviceangebot/bankleitzahlen/download-bankleitzahlen-602592
+
 ## Licence
 
 The code is availiable under the MIT-Licence
